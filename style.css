@@ -1,0 +1,49 @@
+h1{
+	font-family:Century Gothic;
+	font-weight: bold;
+	background-color: transparent;
+	text-align: center;
+	color: black;
+
+
+}
+
+.first{
+	background: transparent;
+
+}
+.opac{
+	background: rgba(255,205,210, 0.5);
+
+}
+
+.classic{
+	display: block;
+	margin-left:20%;
+	margin-right: 20%;
+	text-align: center;
+	background-color: transparent;
+	color:black;
+	font-family: Leelawadee UI;
+
+
+}
+
+h2{
+	text-align: center;
+	background-color: transparent;
+}
+img{
+	vertical-align: center;
+	width: 80%;
+	height:80%;
+	margin-right:10%;
+	margin-left: 10%;
+
+
+}
+
+body{
+	background-image: url(images/back1.jpg);
+
+}
